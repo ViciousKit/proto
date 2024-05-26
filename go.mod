@@ -1,4 +1,4 @@
-module proto
+module github.com/ViciousKit/proto
 
 go 1.21.6
 
